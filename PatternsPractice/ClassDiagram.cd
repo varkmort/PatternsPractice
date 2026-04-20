@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Form">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Form::Shapes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form.hpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAQAAAAAAAAAABAAAAAEAJAA=</HashCode>
+      <FileName>Form.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frames">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAEAAAAAAAAAACAAAQAAE=</HashCode>
+      <FileName>Frames.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Toys">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAACAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Toys.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
